@@ -91,10 +91,9 @@ img {
 }
 
 #input {
-	top: 80px;
-    	margin-left: auto;
-    	margin-right: auto;
-    	position: relative;
+	position: absolute;
+	left: 27.25%;
+	top: 310px;
 }
 
 input {
